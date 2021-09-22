@@ -1,0 +1,2 @@
+[![Build Status](http://pi4.chux.net:9999/jenkins/view/puzzles/job/CHUX/job/CompSci/job/puzzles/job/2d-range-sum-js/badge/icon)](http://pi4.chux.net:9999/jenkins/view/puzzles/job/CHUX/job/CompSci/job/puzzles/job/2d-range-sum-js/)
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)

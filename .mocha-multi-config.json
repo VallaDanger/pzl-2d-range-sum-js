@@ -1,0 +1,6 @@
+{
+  "reporterEnabled": "mocha-sonarqube-reporter",
+  "mochaSonarqubeReporterReporterOptions": {
+    "output": "coverage/test-reporter.xml"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extension": ["ts"],
+  "spec": "test/**/*.test.ts",
+  "require": "ts-node/register",
+  "enable-source-maps": true,
+  "timeout": 160000,
+  "throw-deprecation": true
+}
